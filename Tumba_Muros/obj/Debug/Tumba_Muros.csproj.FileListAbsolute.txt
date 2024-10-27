@@ -1,0 +1,88 @@
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe.config
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.AssemblyReference.cache
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario.resources
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Properties.Resources.resources
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.GenerateResource.cache
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.exe
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\source\repos\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Mensaje.resources
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe.config
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.pdb
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.AssemblyReference.cache
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario.resources
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Mensaje.resources
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Properties.Resources.resources
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.GenerateResource.cache
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.exe
+C:\Users\Usuario\Downloads\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe.config
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.AssemblyReference.cache
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario.resources
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Mensaje.resources
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Properties.Resources.resources
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.GenerateResource.cache
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.exe
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario2.resources
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.dll
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.dll
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.xml
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.xml
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CopyComplete
+C:\Users\pipeo\Downloads\Tumba_Muros2\Tumba_Muros2\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Puntajes.resources
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe.config
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.dll
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.dll
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.xml
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.xml
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario.resources
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario2.resources
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Mensaje.resources
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Properties.Resources.resources
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Puntajes.resources
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.GenerateResource.cache
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.exe
+C:\Users\pipeo\OneDrive\Imágenes\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe.config
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.exe
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\Tumba_Muros.pdb
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.dll
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.dll
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.xml
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\bin\Debug\System.Data.SQLite.xml
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.AssemblyReference.cache
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario.resources
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.escenario2.resources
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Mensaje.resources
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Properties.Resources.resources
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.Puntajes.resources
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.GenerateResource.cache
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CoreCompileInputs.cache
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.csproj.CopyComplete
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.exe
+C:\Users\pipeo\OneDrive\Escritorio\Proyectos Programacion\Tumba_Muros\Tumba_Muros\Tumba_Muros\obj\Debug\Tumba_Muros.pdb
